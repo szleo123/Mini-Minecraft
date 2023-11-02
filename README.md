@@ -13,4 +13,7 @@ Check out the video presentation here: https://www.youtube.com/watch?v=LQ_T4J69U
 3. Enjoy the mini game.
 
 ## How to control
-- Use `W` `A` `S` `D` to move the Player 
+- Use `W` `A` `S` `D` to move the Player, `Q` `E` to change the elevation of the Player while in flight mode.
+- Use `Space bar` to jump.
+- Use `left click` of the mouse to build a stone block and `right click` to delete a block.
+- Use `F` to switch between normal mode and flight mode. 
